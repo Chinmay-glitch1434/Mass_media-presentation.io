@@ -1,0 +1,43 @@
+#body{
+    background-color: rgb(219, 151, 23);
+    text-align: center;
+}
+p {
+    font-size: 22.5px;
+}
+#h2 {
+    font-size: 30px;
+}
+#btn {
+    background-color: yellow;
+    color: red;
+}
+#pp {
+    font-size: 19px;
+}
+#h3 {
+    font-size: 21px;
+}
+#bbody {
+    background-image: linear-gradient(45deg, rgb(43, 202, 43), yellow , orange );
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;    
+}
+#h4 {
+    font-size: 21px;
+}
+#ppp {
+    font-size: 19px;
+}
+img {
+    height: 750px;
+    width: 700px;
+}
+#bodi {
+    text-align: center;
+    background-image: linear-gradient(45deg, rgb(43, 202, 43), yellow , orange );
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed; 
+}
